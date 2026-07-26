@@ -57,4 +57,3 @@ Grzybowski, A, Pawlikowska-Łagód, K & Lambert, WC 2024, A history of artificia
 National Aeronautics and Space Administration (NASA) 2024, What is Artificial Intelligence?, NASA, last updated 13 May 2024, viewed 26 July 2026, https://www.nasa.gov/what-is-artificial-intelligence/.
 
 Learn Bright 2024, What Is AI? | Learn all about artificial intelligence, video, YouTube, 6 December 2024, viewed 26 July 2026, https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s.
-
