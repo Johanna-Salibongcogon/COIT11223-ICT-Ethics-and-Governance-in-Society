@@ -2,6 +2,8 @@
 A collection of artefacts that demonstrate what I have learned about Artificial Intelligence
 
 ## Artefact 1: What is Artificial Intelligence (AI)? 
+<img width="1918" height="1080" alt="image" src="https://github.com/user-attachments/assets/8de27306-0d67-4aa5-aa37-f3d72116d84a" />
+https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s
 
 ### Summary of the artefact
 
