@@ -38,3 +38,9 @@ This is a scholarly journal article that explains the history of artificial inte
 
 ### Justification on why I chose this artefact.
 I chose this article because it is important to know the history of Artificial Intelligence and how it started. In this article, I now know that simply storing instructions on punched cards can ignite an amazing technology. This article also showed how Artificial Intelligence developed over time, and the important contributions by different remarkable people such as Alan Turing, who famously deciphered the code of the Enigma machine in World War 2, Charles Babbage, who conceptualized the Analytical Engine, and also Ada Lovelace, who was the first person to create the first computer program. Ada Lovelace foresaw that a machine could not only manipulate numbers but also symbols such as alphabetical letters. Learning the origins of Artificial Intelligence provides a better understanding of today's technologies.
+
+## Artefact 4: Workshop Personal Reflection
+Workshop Week 2, Tuesday, July 21, 2026,Harita Chugh, Melbourne
+
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/ebd0ce21-fc6b-4ec6-828e-17cea10d1f46" />
+
