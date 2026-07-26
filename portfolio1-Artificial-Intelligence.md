@@ -19,7 +19,6 @@ What I have learned from this artefact is that, Artificial Intelligence (AI) is 
 
 ## Artefact 2: What is Artificial Intelligence (AI)? 
 <img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/9d4f4db4-9c43-4c9d-b9c0-49e653f69cca" />
-
 https://www.nasa.gov/what-is-artificial-intelligence/
 
 ### Summary of the artefact
@@ -29,3 +28,13 @@ This is a webpage of National Aeronautics and Space Administration that defines 
 ### Justification on why I chose this artefact.
 
 I chose this artefact because NASA is an organization highly incredible source in technology, and NASA have explain clearly what artificial intelligence really it is a system that can do complicated tasks that is done by humans like decision making, reasoning, etc. NASA showed also how it worked use in the real world, Artificial Intelligence can perform task on its own when a situation, or data changes. NASA also explained that Artificial Intelligence achieved this by using data and algorithms to teach how computers to make classifications, and it can generate predictions to solved complex problem, or to handle task. NASA also provided different types of concepts that is use in Artificial Intelligence that is, Deep Learning, Decision Support, Natural Language Processing, and Neural Networks.
+
+## Artefact 3: I have found the history of Artificial Intelligence
+<img width="850" height="892" alt="image" src="https://github.com/user-attachments/assets/6aeba12a-730d-4f74-9356-3fdc7c395f56" />
+https://www.sciencedirect.com/science/article/abs/pii/S0738081X23002687
+
+### Summary of the artefact
+This is a scholar journal article that explains the history of the Artificial Intelligence. It was written by Andrzej Grzybowski, Krzysztof Pawlikowski, and Claude Lambert in 2024. In 1804 Jacquard Loom introduced the idea of storing a punched cards for instructions Grzybowski, Pawlikowska–Łagód & Lambert, 2024, pp. 2–3. In later part, it was Charles Babbage who first designed the concept of mechanical computer called "Difference Engine". From what I have understand is that the concept of Jacquard Loom was the birth of Artificial Intelligence just by storing instructions by the punched cards.
+
+### Justification on why I chose this artefact.
+I chose this article because it is important to know the history of Artificial Intelligence, and how does it start. In this article I now know that by a simple storing instructions for punched cards can ignite a amazing technology. This article is also showed how Artificial Intelligence developed overtime, and the importance contributions by different remarkable people such as Alan Turing, who famously decipher the code of Enigma machine in World War 2, Charles Babbage who conceptualized the Analytical Engine, and also Ada Lovelace who are the first person who created the first computer program. Ada Lovelace foresee that a machine could not only manipulate numbers but also symbol such as alphabetical letters. Learning the origins of Artificial Intelligence provides better understanding today's technologies.
