@@ -41,6 +41,20 @@ I chose this article because it is important to know the history of Artificial I
 
 ## Artefact 4: Workshop Personal Reflection
 Workshop Week 2, Tuesday, July 21, 2026,Harita Chugh, Melbourne
-
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/ebd0ce21-fc6b-4ec6-828e-17cea10d1f46" />
+
+### Summary of the Artefact: My personal reflection
+
+During this week's workshop, we discussed recent advancements in Artificial Intelligence and how AI is becoming increasingly realistic. One example that stood out to me was our tutors example of a FIFA World Cup video where Cristiano Ronaldo appeared to speak Hindi using Meta's AI technology. The demonstration showed how AI can realistically synchronize a person's voice and lip movements into another language.
+
+### Justification on why I chose the Artefact.
+This photo was taken on our workshop dicusssing about Artificial Intelligence technology that was very intriguing. During the discussion, when our teacher Ms. Harita shared her experience regarding about Meta's Artificial Intelligence. She shared to us that even though Christiano Ronaldo is not a Hindi speaker, she saw that Christiano Ronaldo was speaking Hindi, and it surprises her how on earth did Cristiano Ronaldo speakes Hindi fluently and on how it was very realistic that the AI-generated video of Christiano Ronaldo speak real Hindi and it was no looked like it was edited. Then, as she described that in the video the lip movements of Christiano Ronaldo were perfectly synch with the translated language, making it almost impossible to notice that it was created by an artificial Intelligence. Usually, you can tell that it was made by an Artificial Intelligence just by looking at some features of the face, such as lips, eyes, or the way they talk and yet you can't tell the difference that it was made by an Artificial Intelligence. This made me realize that Artificial Intelligence is much more advanced than I am antisipating, and it made realize the disadvantages and advantages of Artificial Intelligence because of this Workshop. Artificial Intelligence can help people with a lot of task, but it could also use on unethical actions that can deceive people. 
+
+## References (CQU Harvard Style)
+
+Grzybowski, A, Pawlikowska-Łagód, K & Lambert, WC 2024, A history of artificial intelligence, Clinics in Dermatology, viewed 26 July 2026, https://www.sciencedirect.com/science/article/abs/pii/S0738081X23002687.
+
+National Aeronautics and Space Administration (NASA) 2024, What is Artificial Intelligence?, NASA, last updated 13 May 2024, viewed 26 July 2026, https://www.nasa.gov/what-is-artificial-intelligence/.
+
+Learn Bright 2024, What Is AI? | Learn all about artificial intelligence, video, YouTube, 6 December 2024, viewed 26 July 2026, https://www.youtube.com/watch?v=JcXKbUIebrU&t=14s.
 
