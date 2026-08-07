@@ -2,6 +2,8 @@
 A collection of artefacts that demonstrate what I have learned about Ethical Theory
 
 ## Artefact 1: Ethics in AI Application
+<img width="1918" height="822" alt="image" src="https://github.com/user-attachments/assets/b68255fa-4a79-4589-a10b-d41966f9e310" />
+https://www.youtube.com/watch?v=avSkKOgxQr4 
 
 ### Summary of the artefact
 
