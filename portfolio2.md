@@ -14,14 +14,19 @@ I’ve chosen this artefact, a YouTube video titled “Business School 101” to
 
 
 ## Artefact 2: Rise of AI influencers raising ethical concerns 
+<img width="1854" height="826" alt="image" src="https://github.com/user-attachments/assets/e5c857be-4f2a-4878-91e6-cf15f78cda31" />
+https://www.youtube.com/watch?v=5kjxBd16sm4
 
 ### Summary of the artefact
+This artefact is a news video on YouTube by the British Broadcasting Channel (BBC) news delivering about the rise of Artificial Intelligence influencers in modelling, on how they are becoming popular, and how it affects the perception of model standards. The video explains how a model named Atina that was made by Artificial Intelligence earns from sponsorships and promotes products. From what I have understood from the artefact, Artificial Intelligence can now create a beautiful influencer that can earn through promotions and sponsorships, but it also raises ethical issues about the perception of beauty standards that are unrealistic and how it influences society, especially young people.
 
 ### Justification on why I chose this artefact.
+I chose this artefact because it provides different use cases regarding Artificial Intelligence. The key idea that I have learned is that you can now create a model using Artificial Intelligence and can earn through promotions and sponsorships. Before watching this artefact, I thought that it was better to advertise to real people, especially to famous and beautiful people, but after watching this artefact, you can advertise using a virtual influencer that behaves human and has unrealistic beauty to promote and sponsor your product. You can now convince some companies to promote their product using your virtual influencer. This type of Artificial Intelligence is part of ICT because it uses social media platforms, digital marketing, and creates content to connect and convince people. With this type of Artificial Intelligence, it can affect society, especially among teenagers who are women who compare themselves to unrealistic appearances. This made me realize that social media promotes unrealistic attributes such as appearances even before Artificial Intelligence, but now you can earn through promotions and sponsorships with this kind of content. I have negative feelings about this kind of technology because it promotes unrealistic beauty standards and how it manipulates the perception of the real beauty of every human being.
 
 
 
 ## Artefact 3: Navigating ethical considerations in software development and deployment in technological giants
+
 
 ### Summary of the artefact
 
