@@ -39,3 +39,5 @@ Workshop Week 4, Tuesday , August 4, 2026 , Harita Chugh, Melbourne
 
 
 ## References (CQU Harvard Style)
+
+Business School 101 2025, Ethics in AI Applications | From A Business Professor, video, YouTube, 3 March, viewed 6 August 2026, https://www.youtube.com/watch?v=5kjxBd16sm4.
