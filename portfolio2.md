@@ -52,8 +52,10 @@ The key idea discussed in our workshop was how powerful Artificial Intelligence 
 
 
 ## References (CQU Harvard Style)
-Ajiga, D, Okeleke, PA, Folorunsho, SO & Ezeigweneme, C 2024, Navigating ethical considerations in software development and deployment in technological giants, International Journal of Engineering Research Updates, vol. 7, no. 1, pp. 50–63, viewed 4 August 2026, https://www.researchgate.net/publication/383409906_Navigating_ethical_considerations_in_software_development_and_deployment_in_technological_giants.
+_Ajiga, D, Okeleke, PA, Folorunsho, SO & Ezeigweneme, C 2024, Navigating ethical considerations in software development and deployment in technological giants, International Journal of Engineering Research Updates_, vol. 7, no. 1, pp. 50–63, viewed 4 August 2026, https://www.researchgate.net/publication/383409906_Navigating_ethical_considerations_in_software_development_and_deployment_in_technological_giants.
 
-Business School 101 2025, Ethics in AI Applications | From A Business Professor, video, YouTube, 3 March, viewed 6 August 2026, https://www.youtube.com/watch?v=5kjxBd16sm4.
+_Business School 101 2025, Ethics in AI Applications_ | From A Business Professor, video, YouTube, 3 March, viewed 6 August 2026, https://www.youtube.com/watch?v=5kjxBd16sm4.
 
-BBC News 2024, Rise of AI influencers raising ethical concerns | BBC News, video, YouTube, 10 November, viewed 6 August 2026, https://www.youtube.com/watch?v=avSkKOgxQr4.
+_BBC News 2024, Rise of AI influencers raising ethical concerns_ | BBC News, video, YouTube, 10 November, viewed 6 August 2026, https://www.youtube.com/watch?v=avSkKOgxQr4.
+
+
