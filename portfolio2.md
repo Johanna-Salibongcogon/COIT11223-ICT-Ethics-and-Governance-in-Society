@@ -43,8 +43,11 @@ Workshop Week 4, Tuesday , August 4, 2026 , Harita Chugh, Melbourne
 
 
 ### Summary of the Artefact: My personal reflection
+This week's workshop it was discussed in class how Artificial Intelligence can breach security issues, which is result on having a debate about ethical and legal issues regarding Artificial Intelligence companies. The discussion included how OpenAI, which was built by Anthropic, breached security issues of two companies that people raised concerns about cybersecurity, data privacy, and ethical use of Artificial Intelligence. Despite how OpenAI, or any model of Artificial Intelligence, has benefits for users, when an Artificial Intelligence company does not adhere to ethical principles, then it would raise a lot of issues about how it will be beneficial.
 
 ### Justification on why I chose the Artefact.
+The key idea discussed in our workshop was how powerful Artificial Intelligence is an example of this is OpenAI Code by Anthropic, which was able to behave beyond its intended purpose. Before this discussion, I thought that a Generative Artificial Intelligence like OpenAI Code was only designed to automate tasks, generate code, and answer questions. After our workshop, I realized that this powerful Artificial Intelligence can act on its own and breach security issues, and create questions about its ethical uses and legal problems. This discussion made me realize how Artificial Intelligence is becoming increasingly important in ICT because it can affect computer systems, organizations, and companies. This also made me realize how it can affect society because of how it can breach and how Artificial Intelligence behaves, which will negatively affect its users, especially business owners, expose personal data, and it reduces trust in using the technology. As an Information Technology student, I realized how future software developers should follow ethical principles and develop secure Artificial Intelligence systems. Learning from our discussion in our workshop gave me negative feelings about the people who work in Artificial Intelligence companies, because I wonder what's most important in their goals. Is it to generate more profit, or to build powerful, innovative technology that can benefit and help users to become more productive?
+
 
 
 
