@@ -26,7 +26,8 @@ I chose this artefact because it provides different use cases regarding Artifici
 
 
 ## Artefact 3: Navigating ethical considerations in software development and deployment in technological giants
-
+<img width="1915" height="1000" alt="image" src="https://github.com/user-attachments/assets/8906bce1-9ca5-4c7d-8e6b-09513fc33483" />
+https://www.researchgate.net/profile/Daniel-Ajiga/publication/383409906_Navigating_ethical_considerations_in_software_development_and_deployment_in_technological_giants/links/66cb6190c2eaa5002318676f/Navigating-ethical-considerations-in-software-development-and-deployment-in-technological-giants.pdf
 
 ### Summary of the artefact
 
