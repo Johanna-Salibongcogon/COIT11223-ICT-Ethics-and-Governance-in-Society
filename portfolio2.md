@@ -39,6 +39,9 @@ I chose this artefact because it provides the ethical duties of software develop
 ## Artefact 4: Workshop Personal Reflection
 Workshop Week 4, Tuesday , August 4, 2026 , Harita Chugh, Melbourne
 
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/5c810e21-ef3b-4eb7-8e73-8db5a780135d" />
+
+
 ### Summary of the Artefact: My personal reflection
 
 ### Justification on why I chose the Artefact.
