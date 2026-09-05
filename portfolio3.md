@@ -41,8 +41,9 @@ I chose this artefact because it helps me understand how AI can be involved in c
 Workshop Week 7 Tuesday September 1, 2026 Harita Chugh, Melbourne
 <img width="1714" height="2046" alt="image" src="https://github.com/user-attachments/assets/d7fc5127-c338-4c85-a14a-6d71be89bf92" />
 
-
 ### Summary of the artefact
+
+In this weeks workshop, we discussed about Intellectual property andits protection of various types of works. Another subject that came to mind was trademarks and the way logos are created to be easily distinct from other companies. We also explored the issue of new challenges presented by AI in the field of Intellectual Property, as AI can generate music, artwork, videos, and other forms of content, and ownership rights come into question. This workshop made me realize that Intellectual Property covers the brands, creative works and ideas, and at the same time there are new challenges as the technology evolves.
 
 ### Justification on why I chose this artefact
 
