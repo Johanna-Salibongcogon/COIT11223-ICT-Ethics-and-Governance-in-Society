@@ -47,5 +47,6 @@ In this weeks workshop, we discussed about Intellectual property andits protecti
 
 ### Justification on why I chose this artefact
 
+The key topic in our week 7 workshop was Intellectual Property especially how trademarks help business protect their logos and brand identity. I understand that logos are designed to be unique so that people can easily recognize one company from another. A good example is how everybody in class easily answers the logo of Mcdonald's. I also found it interesting to learn how businesses protect different parts of their work, such as logos, colors, design and confidential information. Learning how Coca-cola kept their secret recipe also made me realize the importance of how they protect confidential information. We also discussed how AI is creating new questions about who owns the content created by AI. I am stunned to know that there was an AI-generated song that is now very popular in India called Chai Ki Tapri Pe that becomes viral sensation in social media. This make me realise how AI can create various types of content. To sum up, this workshop taught me that it is very important to protect creative works and private information from being used without permission.
 
 ##References (CQU Harvard Style)
