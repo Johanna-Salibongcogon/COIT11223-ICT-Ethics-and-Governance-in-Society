@@ -22,11 +22,16 @@ The artefact is the report, China Freedom on the Net 2025, released by the Freed
 ### Justification on why I chose this artefact
 I selected this report because it is an actual report with data. I was once mistakenly under the impression that censorship is just about blocking websites, but now I know it can also influence platforms, journalists and citizens. This may lead to self-censorship and, overall, less government accountability. Governments should only limit content for things that cause serious harm (e.g. violence, abuse, fraud) and nothing for the purposes of criticising the government. Restrictions should be lawful, appealable and accountable, as is the case in China (Freedom House 2025).
 
-## Artefact 3: 
+## Artefact 3: Private Company Content Moderation
+<img width="1917" height="982" alt="image" src="https://github.com/user-attachments/assets/3cfdd850-c087-4fbe-a9fa-be514ee9220f" />
+
+https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
 
 ### Summary of the artefact
+This art is a part of YouTube Community Guidelines. We have limited hate speech, harassment, threats and dangerous misinformation on YouTube. This is moderation by private companies but impactful for public communication since platforms are used for news and discussion (YouTube 2026).
 
 ### Justification on why I chose this artefact
+This artefact has been selected due to the fact that platforms determine content of what is seen or shared. While censorship can protect users, there is also a risk of errors on the part of companies, so they should communicate what's being removed and offer appeals (YouTube 2026). Content should only be restricted in the case of serious harm, and criticism, protest, satire and unpopular opinions should be allowed. Restriction should be the exception; freedom should be the norm and should be limited as little as possible and subject to review. I am a changed person as a result of this research as I have learned that at times, people can be protected by limitations, but when there are too many limitations, freedom is compromised and so is information access. I do support restrictions for serious harm; I don't want to restrict public debate. 
 
 ## Artefact 4: 
 
@@ -36,6 +41,8 @@ I selected this report because it is an actual report with data. I was once mist
 
 
 ## References (CQU Harvard Style)
-Eddy, K, Matsa, KE, Lipka, M, Toff, B, Forman-Katz, N & St. Aubin, C 2026, *Americans value press freedom but differ on its limits*, Pew Research Center, viewed 17 September 2026, https://www.pewresearch.org/journalism/2026/09/15/americans-value-press-freedom-but-differ-on-its-limits/.
+Eddy, K, Matsa, KE, Lipka, M, Toff, B, Forman-Katz, N & St. Aubin, C 2026, *Americans value press freedom but differ on its limits*, Pew Research Center, viewed 19 September 2026, https://www.pewresearch.org/journalism/2026/09/15/americans-value-press-freedom-but-differ-on-its-limits/.
 
-Freedom House 2025, *China: Freedom on the Net 2025 country report*, Freedom House, viewed 17 September 2026, https://freedomhouse.org/country/china/freedom-net/2025.
+Freedom House 2025, *China: Freedom on the Net 2025 country report*, Freedom House, viewed 19 September 2026, https://freedomhouse.org/country/china/freedom-net/2025.
+
+YouTube 2026, *Community Guidelines*, YouTube, viewed 20 September 2026, https://www.youtube.com/howyoutubeworks/policies/community-guidelines/.
