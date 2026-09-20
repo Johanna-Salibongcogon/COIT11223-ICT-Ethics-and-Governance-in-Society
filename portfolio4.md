@@ -11,7 +11,7 @@ This artefact is part of a 2026 Pew Research Center Study on press freedom. It i
 ### Justification on why I chose this artefact
 I chose this study because they demonstrate the dilemma of maintaining press freedom while combating false information. It made me realize that sometimes we may need to restrict some information because doing so would be harmful but we still need to protect government criticism. This is connected to ICT as digital platforms have an impact on the information people are able to access. If there are restrictions, they should not be so unfair as to restrict freedom of expression (Eddy et al. 2026).
 
-## Artefact 2: 
+## Artefact 2: Government Censorship in China 
 <img width="1907" height="1017" alt="image" src="https://github.com/user-attachments/assets/681afd0d-6c6f-45c9-8e3f-d2d52d2aa2a4" />
 
 https://freedomhouse.org/country/china/freedom-net/2025
