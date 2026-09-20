@@ -17,8 +17,10 @@ I chose this study because they demonstrate the dilemma of maintaining press fre
 https://freedomhouse.org/country/china/freedom-net/2025
 
 ### Summary of the artefact
+The artefact is the report, China Freedom on the Net 2025, released by the Freedom House. In its report, it says that China has a very restrictive online environment. Google, Facebook and YouTube are blocked by the Great Firewall and the government mandates that they delete political content. China was rated Not Free (Freedom House 2025) with a score of 9 out of 100.
 
 ### Justification on why I chose this artefact
+I selected this report because it is an actual report with data. I was once mistakenly under the impression that censorship is just about blocking websites, but now I know it can also influence platforms, journalists and citizens. This may lead to self-censorship and, overall, less government accountability. Governments should only limit content for things that cause serious harm (e.g. violence, abuse, fraud) and nothing for the purposes of criticising the government. Restrictions should be lawful, appealable and accountable, as is the case in China (Freedom House 2025).
 
 ## Artefact 3: 
 
@@ -34,3 +36,6 @@ https://freedomhouse.org/country/china/freedom-net/2025
 
 
 ## References (CQU Harvard Style)
+Eddy, K, Matsa, KE, Lipka, M, Toff, B, Forman-Katz, N & St. Aubin, C 2026, *Americans value press freedom but differ on its limits*, Pew Research Center, viewed 17 September 2026, https://www.pewresearch.org/journalism/2026/09/15/americans-value-press-freedom-but-differ-on-its-limits/.
+
+Freedom House 2025, *China: Freedom on the Net 2025 country report*, Freedom House, viewed 17 September 2026, https://freedomhouse.org/country/china/freedom-net/2025.
