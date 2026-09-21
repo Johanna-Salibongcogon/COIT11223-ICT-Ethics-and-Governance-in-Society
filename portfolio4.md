@@ -38,9 +38,10 @@ Workshop Week 7 Tuesday September 15, 2026 Harita Chugh, Melbourne
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/4b8419ee-fec7-4fd4-b1d2-a9b40f488bed" />
 
 ### Summary of the artefact
+In this workshop, we talked about Censorship and Responsibility. We also thought about governments and social media companies blocking or regulating information on the web, as well as individual users' censorship. As mentioned earlier, there is a difference between censorship and control. We also spoke about self-censorship and shared that all of us have the ability to choose what we say or choose not to say.
 
 ### Justification on why I chose this artefact
-
+In this workshop reflection, it demonstrated that censorship can be inflicted by governments but can also be brought about by others, so I could just read it. Content can be deleted from social media platforms, or users may choose not to post content due to privacy, safety or fear of being criticized. I have gained an awareness that responsibility may be split between Governments, Companies and Users. I feel my perspective shifted due to personal choice of self-censorship, but it did demonstrate that people are feeling constrained in their ability to freely express themselves.
 
 ## References (CQU Harvard Style)
 Eddy, K, Matsa, KE, Lipka, M, Toff, B, Forman-Katz, N & St. Aubin, C 2026, *Americans value press freedom but differ on its limits*, Pew Research Center, viewed 19 September 2026, https://www.pewresearch.org/journalism/2026/09/15/americans-value-press-freedom-but-differ-on-its-limits/.
