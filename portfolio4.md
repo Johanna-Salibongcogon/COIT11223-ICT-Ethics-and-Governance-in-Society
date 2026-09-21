@@ -34,6 +34,7 @@ This art is a part of YouTube Community Guidelines. We have limited hate speech,
 This artefact has been selected due to the fact that platforms determine content of what is seen or shared. While censorship can protect users, there is also a risk of errors on the part of companies, so they should communicate what's being removed and offer appeals (YouTube 2026). Content should only be restricted in the case of serious harm, and criticism, protest, satire and unpopular opinions should be allowed. Restriction should be the exception; freedom should be the norm and should be limited as little as possible and subject to review. I am a changed person as a result of this research as I have learned that at times, people can be protected by limitations, but when there are too many limitations, freedom is compromised and so is information access. I do support restrictions for serious harm; I don't want to restrict public debate. 
 
 ## Artefact 4: 
+Workshop Week 7 Tuesday September 15, 2026 Harita Chugh, Melbourne
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/4b8419ee-fec7-4fd4-b1d2-a9b40f488bed" />
 
 ### Summary of the artefact
