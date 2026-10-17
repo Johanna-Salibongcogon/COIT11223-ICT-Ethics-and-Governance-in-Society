@@ -48,11 +48,11 @@ https://www.digital.gov.au/ai/ai-in-government-policy
 
 ### Summary of the Artefact
 
-The Australian Government also released a new policy to help inform the responsible use of AI at government agencies. There are accountability, transparency and staff training and risk assessment requirements within the policy. The goal is to help government workers use AI’s benefits and make it safer for everyone (DTA 2025a).
+The Australian Government also released a policy to help inform the responsible use of AI at government agencies. There are accountability, transparency and staff training and risk assessment requirements within the policy (DTA 2025a).
 
 ### Justification and Reflection
 
-I selected this artefact because it demonstrates how ethical principles can be put into practice through government needs. Prior to studying this unit I believed successful technology was about speed and efficiency. I learnt that accountability, security and good governance are also vital concepts. This relates to the ACS principle Competence as ICT professionals need to be aware of the risks of the systems that are developed or used (ACS 2014). As an aspiring ICT professional, will not only focus whether AI is effective, but also if it is safe, fair and appropriate to the people involved.
+I selected this artefact because it demonstrates how ethical principles can be put into practice. Prior to studying this unit I believed successful technology was about speed and efficiency. I learnt that accountability, security and good governance are vital concepts. This relates to the ACS principle Competence as ICT professionals need to be aware of the risks of systems developed or used (ACS 2014). As an aspiring ICT professional, I will not only focus on whether AI is effective, but also if it is safe, fair and appropriate to the people involved.
 
 ---
 
@@ -64,11 +64,11 @@ https://www.digital.gov.au/ai/ai-in-government-policy/ai-use-case-impact-assessm
 
 ### Summary of the Artefact
 
-This Australian Government policy provides guidance on the assessing risk in relation to the development and introduction of AI systems by agencies. It calls for impact assessments for specific AI use cases and ongoing monitoring, risk management and accountability. The policy is aware that certain applications have greater risks, especially where decisions impact on individuals or communities (DTA 2025b).
+This Australian Government policy provides guidance on assessing risk in the development and introduction of AI systems by agencies. It calls for impact assessments for  AI use cases and ongoing monitoring, risk management and accountability. Certain applications have greater risks, especially where decisions impact on individuals or communities (DTA 2025b).
 
 ### Justification and Reflection
 
-I choose this artefact because it shows me that it is always better to prevent a problem rather than to respond once the problem has occurred. This artefact links with Act Utilitarianism, because, decisions should be made based on whether they will produce the best outcome with the largest balance of good over evil. It also links with the principle of Enhancement of Quality of Life by the ACS (ACS 2014). As a future ICT professional I would want to know who may be affected by a system prior to recommending its use. This artefact taught me that the developer should take responsibility to prevent potential issues before a system is being used instead of waiting for people to experience those problems.
+I choose this artefact because it shows me that it is better to prevent a problem rather than to respond once the problem has occurred. This artefact links with Act Utilitarianism, because decisions should produce the best outcome with the largest balance of good over evil. It also links with the principle of Enhancement of Quality of Life by the ACS (ACS 2014). As a future ICT professional I would want to know who may be affected by a system before recommending its use. Developers should take responsibility to prevent potential issues before a system is being used.
 
 ---
 
@@ -81,11 +81,11 @@ https://www.gov.uk/government/publications/guidance-for-organisations-using-the-
 
 ### Summary of the Artefact
 
-The Algorithmic Transparency Recording Standard is being introduced in the United Kingdom to enable public organisations to explain the use of algorithmic tools and the reasons for doing so. The guidance explains how government organisations should share information about these tools, such as their purpose and their role in decision making. It seeks to promote public understanding, trust and accountability (GDS 2025).
+The Algorithmic Transparency Recording Standard is being introduced in the United Kingdom to enable public organisations to explain the use of algorithmic tools. The guidance explains how government organisations should share information about these tools (GDS 2025).
 
 ### Justification and Reflection
 
-I chose this artefact because it is a comparison of government approaches in Australia and another country. A surprising thing is that making something transparent isn't just a matter of saying it is there. Governments should also provide information about the system and its impact on decision making. This is in line with the ACS principle of Honesty (ACS 2014). And in scenarios where people have to use services from Government and don't have a choice I believe transparency is so vital. But, information being published does not mean an automated decision is fair.
+I chose this artefact because it compares government approaches. Making something transparent isn't just a matter of saying it is there. Governments should also provide information about the system and its impact on decision making. This is in line with the ACS principle of Honesty (ACS 2014). When people have no choice but to use government services I believe transparency is so vital. But, information being published does not mean an automated decision is fair.
 
 ---
 
@@ -97,11 +97,11 @@ https://www.gov.uk/government/publications/algorithmic-transparency-recording-st
 
 ### Summary of the Artefact
 
-This artefact is a UK policy that talks about the transparency requirements placed upon government bodies and algorithmic tools. It is about tools that have a high impact on the decisions that affect the public and/or have direct contact with the people. The policy also acknowledges that certain information could have to be protected for security or confidentiality purposes (GDS 2024).
+This artefact is a UK policy about the transparency requirements for government bodies and algorithmic tools. It is about tools that have a high impact on the decisions that affect the public. The policy acknowledges that certain information could have to be protected for security or confidentiality purposes (GDS 2024).
 
 ### Justification and Reflection
 
-I chose this artefact because of its emphasis on transparency must balance with other responsibilities. It seemed to me at first, that the more information means better accountability. At first, I believed that more information would lead to increased accountability. But I found out though that there is some technical data that is sensitive. This relates to the Kantianism approach as professionals are responsible for respecting people's rights and keeping confidential information private. Governments should communicate about automated decision making, but not reveal sensitive information. Accountability is the continued responsibility for the technology and its impact even when a computer does much of the work.
+I chose this artefact because of its emphasis on transparency must balance with other responsibilities. At first, I believed that more information would lead to increased accountability. But I found out that there is some data that is sensitive. This relates to the Kantianism approach as professionals are responsible for respecting people's rights and keeping confidential information private. Governments should communicate about automated decision making, but not reveal sensitive information. Accountability is responsibility for the technology and its impact even when a computer does much of the work.
 
 ---
 ## Overall Reflection and Conclusion
