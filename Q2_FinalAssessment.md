@@ -40,7 +40,25 @@ I chose this artefact because privacy is a concern with ICT. Government systems 
 
 ---
 
+## Artefact 3: Responsible Use of AI in Australian Government
+
+<img width="1917" height="1092" alt="image" src="https://github.com/user-attachments/assets/86ba725b-b0d8-43f1-afca-986cc03e8623" />
+
+https://www.digital.gov.au/ai/ai-in-government-policy 
+
+### Summary of the Artefact
+
+The Australian Government also released a new policy to help inform the responsible use of AI at government agencies. There are accountability, transparency and staff training and risk assessment requirements within the policy. The goal is to help government workers use AI’s benefits and make it safer for everyone.
+
+### Justification and Reflection
+
+I chose this artefact because privacy is a concern with ICT. Government systems can handle sensitive data and people can have restricted control of their information being processed. This applies to Article 14 - Use of information, The responsibility to protect the public interest and personal privacy. I have learned from this, is not only to protect info from possible cyber-attacks but to also protect use of info and to give rights to challenge decisions. I believe as a future ICT professional that individuals should have the opportunity to question automated decisions that affect them.
+
+---
+
 ## References
+
+Digital Transformation Agency (DTA) 2025a, *Policy for the responsible use of AI in government*, version 2.0, Australian Government, https://www.digital.gov.au/ai/ai-in-government-policy
 
 Office of the Australian Information Commissioner (OAIC) 2025, *AGD consultation paper – Use of automated decision-making by government*, Australian Government, https://www.oaic.gov.au/engage-with-us/submissions/agd-consultation-paper-use-of-automated-decision-making-by-government
 
