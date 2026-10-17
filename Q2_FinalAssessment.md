@@ -56,6 +56,22 @@ I selected this artefact because it demonstrates how ethical principles can be p
 
 ---
 
+## Artefact 4: Assessing Risks Before Using AI
+
+<img width="1917" height="1086" alt="image" src="https://github.com/user-attachments/assets/c41fe91c-57da-4665-bfa9-ca449b3d79e6" />
+
+https://www.digital.gov.au/ai/ai-in-government-policy/ai-use-case-impact-assessment
+
+### Summary of the Artefact
+
+This Australian Government policy provides guidance on the assessing risk in relation to the development and introduction of AI systems by agencies. It calls for impact assessments for specific AI use cases and ongoing monitoring, risk management and accountability. The policy is aware that certain applications have greater risks, especially where decisions impact on individuals or communities.
+
+### Justification and Reflection
+
+I choose this artefact because it shows me that it is always better to prevent a problem rather than to respond once the problem has occurred. This artefact links with Act Utilitarianism, because, decisions should be made based on whether they will produce the best outcome with the largest balance of good over evil. It also links with the principle of Enhancement of Quality of Life by the ACS. As a future ICT professional I would want to know who may be affected by a system prior to recommending its use. This artefact taught me that the developer should take responsibility to prevent potential issues before a system is being used instead of waiting for people to experience those problems.
+
+---
+
 ## References
 
 Digital Transformation Agency (DTA) 2025a, *Policy for the responsible use of AI in government*, version 2.0, Australian Government, https://www.digital.gov.au/ai/ai-in-government-policy
