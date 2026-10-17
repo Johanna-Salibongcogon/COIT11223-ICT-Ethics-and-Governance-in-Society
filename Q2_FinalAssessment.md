@@ -89,12 +89,30 @@ I chose this artefact because it is a comparison of government approaches in Aus
 
 ---
 
+## Artefact 6: Making Government Algorithms Accountable
+
+<img width="1917" height="1087" alt="image" src="https://github.com/user-attachments/assets/e0e9b651-1bfb-478c-9afa-32299c3f47eb" />
+
+https://www.gov.uk/government/publications/algorithmic-transparency-recording-standard-mandatory-scope-and-exemptions-policy/algorithmic-transparency-recording-standard-atrs-mandatory-scope-and-exemptions-policy
+
+### Summary of the Artefact
+
+This artefact is a UK policy that talks about the transparency requirements placed upon government bodies and algorithmic tools. It is about tools that have a high impact on the decisions that affect the public and/or have direct contact with the people. The policy also acknowledges that certain information could have to be protected for security or confidentiality purposes.
+
+### Justification and Reflection
+
+I chose this artefact because of its emphasis on transparency must balance with other responsibilities. It seemed to me at first, that the more information means better accountability. At first, I believed that more information would lead to increased accountability. But I found out though that there is some technical data that is sensitive. This relates to the Kantianism approach as professionals are responsible for respecting people's rights and keeping confidential information private. Governments should communicate about automated decision making, but not reveal sensitive information. Accountability is the continued responsibility for the technology and its impact even when a computer does much of the work.
+
+---
+
 ## References
 Australian Computer Society (ACS) 2014, *ACS code of professional conduct*, version 2.1, Australian Computer Society, viewed 17 October 2026, https://www.acs.org.au/content/dam/acs/rules-and-regulations/Code-of-Professional-Conduct_v2.1.pdf
 
 Digital Transformation Agency (DTA) 2025a, *Policy for the responsible use of AI in government*, version 2.0, Australian Government, viewed 16 October 2026, https://www.digital.gov.au/ai/ai-in-government-policy
 
 Digital Transformation Agency (DTA) 2025b, *Policy for the responsible use of AI in government – AI use case impact assessment*, Australian Government, viewed 17 October 2026, https://www.digital.gov.au/ai/ai-in-government-policy/ai-use-case-impact-assessment
+
+Government Digital Service (GDS) 2024, *Algorithmic Transparency Recording Standard (ATRS) Mandatory Scope and Exemptions Policy*, UK Government, viewed 17 October 2026, https://www.gov.uk/government/publications/algorithmic-transparency-recording-standard-mandatory-scope-and-exemptions-policy/algorithmic-transparency-recording-standard-atrs-mandatory-scope-and-exemptions-policy
 
 Government Digital Service (GDS) 2025, *Algorithmic transparency recording standard – guidance for public sector bodies*, UK Government, viewed 17 October 2026, https://www.gov.uk/government/publications/guidance-for-organisations-using-the-algorithmic-transparency-recording-standard/algorithmic-transparency-recording-standard-guidance-for-public-sector-bodies
 
