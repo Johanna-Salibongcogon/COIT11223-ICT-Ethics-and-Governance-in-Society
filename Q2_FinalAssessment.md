@@ -32,11 +32,11 @@ https://www.oaic.gov.au/engage-with-us/submissions/agd-consultation-paper-use-of
 
 ### Summary of the Artefact
 
-This addresses the national importance of privacy, transparency and safeguards in the context of governments' use of automated decision making. It considers how the use of automated decision making may affect rights and the importance of appropriate safeguards for government agencies. It also serves as a reminder of risks which may not be apparent until when a person asks for information or asks to review a decision (OAIC 2025).
+This addresses the national importance of privacy, transparency and safeguards in the context of governments use of automated decision making. It considers how the use of automated decision making may affect rights and the importance of appropriate safeguards for government agencies (OAIC 2025).
 
 ### Justification and Reflection
 
-I chose this artefact because privacy is a concern with ICT. Government systems can handle sensitive data and people can have restricted control of their information being processed. This applies to Article 14-Use of information, The responsibility to protect the public interest and personal privacy. I have learned from this, is that its not only to protect information from possible cyber-attacks but to also use data responsibly and give people the rights to challenge decisions. I believe as a future ICT professional, that individuals should have the opportunity to question automated decisions that would affect them.
+I chose this artefact because privacy is a concern with ICT. Government systems can handle sensitive data and people can have restricted control of their information being processed. People's rights and privacy are taken into account under the ACS concept of Primacy of the Public Interest (ACS 2014). I learned that it is not only to protect information from possible cyber-attacks but to also use data responsibly and give people the rights to challenge decisions. I believe as a future ICT professional, individuals should have the opportunity to question automated decisions that would affect them.
 
 ---
 
@@ -125,6 +125,10 @@ I also learned that even a well-designed system can be an ethical issue, especia
 I think ADM systems should be created and implemented fairly, transparently, under human oversight and provide opportunities for people to appeal to decisions made that are not accurate.
 
 ---
+
+##  AI Use Acknowledgement
+
+I used ChatGPT during the planning stage of this assessment to help me organise my ideas and check the grammar of my work. I reviewed the suggestions and developed my work based on my own understanding and learning from the unit.
 
 ## References
 Australian Computer Society (ACS) 2014, *ACS code of professional conduct*, version 2.1, Australian Computer Society, viewed 17 October 2026, https://www.acs.org.au/content/dam/acs/rules-and-regulations/Code-of-Professional-Conduct_v2.1.pdf
