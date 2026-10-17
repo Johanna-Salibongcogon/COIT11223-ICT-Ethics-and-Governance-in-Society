@@ -68,7 +68,7 @@ This Australian Government policy explains how agencies should assess risks befo
 
 ### Justification and Reflection
 
-I chose this artefact because I learned that preventing problems is better than fixing them after they happen. This relates to Act Utilitarianism, which considers the benefits and harm of decisions (Quinn 2020). For example, an AI system may speed up government services for many people, but it could still cause harm if some people receive unfair decisions. It also connects to the ACS principle of Enhancement of Quality of Life (ACS 2014). I realised that even a small problem in an automated system could affect many people because it makes decisions quickly. As a future ICT professional, I would want to understand who might be affected before recommending a system.
+I chose this artefact because I learned that preventing problems is better than fixing them later. This relates to Act Utilitarianism, which considers the benefits and harm of decisions (Quinn 2020). For example, AI can make government services faster, but it may also cause harm through unfair decisions. I believe completing a risk assessment does not automatically make an AI system safe. Governments should continue monitoring systems and take action when problems occur. This also connects to the ACS principle of Enhancement of Quality of Life (ACS 2014). I realised that even a small error could affect many people because automated systems make decisions quickly. As a future ICT professional, I would consider who might be affected before recommending an AI system.
 
 ---
 
@@ -84,7 +84,7 @@ This news article discusses a UK government system that automatically approved r
 
 ### Justification and Reflection
 
-I chose this artefact because it shows why transparency and fairness are important in government decisions. I learned that making decisions faster does not always mean they are fair, especially when people are not given a chance to explain their circumstances before a decision is made. This relates to the ACS principle of Honesty because ICT professionals should provide clear and truthful information (ACS 2014). People should also be informed before decisions are made about their welfare payments and have a fair chance to question them.
+I chose this artefact because it shows why transparency and fairness are important in government decisions. I learned that making decisions faster does not always mean they are fair, especially when people cannot explain their circumstances. I understand that automation can help governments process requests quickly and reduce workloads. However, I believe this benefit should not come at the cost of people's rights, especially when decisions affect their financial situation. This relates to the ACS principle of Honesty because ICT professionals should provide clear and truthful information (ACS 2014). I believe governments should explain automated decisions in simple words so people can understand them. People should also have a fair chance to question decisions that affect their welfare payments.
 
 ---
 
@@ -100,7 +100,7 @@ This UK policy explains which central government organisations must publish info
 
 ### Justification and Reflection
 
-I chose this artefact because it shows that governments should be open about their systems while protecting private information. At first, I believed that sharing more information would always improve accountability. However, I learned that some information is sensitive and should not be shared. This relates to Kantianism because people's rights should be respected, even when sharing information could benefit others (Quinn 2020). For example, governments should not reveal someone's private information just to make their automated systems more transparent. I realised that transparency does not mean sharing everything. As a future ICT professional, I believe governments should explain their systems clearly and take responsibility for the decisions they make.
+I chose this artefact because it shows that governments should be open about their systems while protecting private information. At first, I believed sharing more information would always improve accountability. However, I learned that some information is sensitive and should not be shared. This relates to Kantianism because people's rights should be respected, even when sharing information could benefit others (Quinn 2020). For example, governments should not reveal someone's private information just to make their automated systems more transparent. I believe governments should still explain the purpose of their systems and how decisions are reviewed, even when some technical details cannot be shared. This would help the public understand the systems without exposing sensitive information. As a future ICT professional, I would support this balance.
 
 ---
 ## Overall Reflection and Conclusion
