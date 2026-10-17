@@ -22,7 +22,7 @@ This artefact examines how Australian Government agencies explain their use of a
 
 ### Justification and Reflection
 
-I chose this artefact because it examines how Australian Government agencies explain their use of automated decision-making to the public. It examines messaging from 23 government agencies and also talks about transparency. ADM is used in government services such as social services, migration and aged care. The report highlights the need for people to understand when technology is involved in decisions affecting them.
+I selected this artefact because I wanted to learn why transparency is a key aspect of government decision-making. I learned that individuals need to be aware of the use of ADM in decision making that impacts their life. This relates to the ACS Code of Professional Conduct, specifically to the Primacy of the Public Interest, as ICT professionals should be concerned with what the impact of technology may be on the public. I believe that the government agencies need to be clear about how they use ADM to achieve public trust.
 
 
 
