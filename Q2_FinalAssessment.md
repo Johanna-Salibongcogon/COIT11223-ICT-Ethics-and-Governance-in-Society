@@ -52,7 +52,7 @@ The Australian Government also released a new policy to help inform the responsi
 
 ### Justification and Reflection
 
-I chose this artefact because privacy is a concern with ICT. Government systems can handle sensitive data and people can have restricted control of their information being processed. This applies to Article 14 - Use of information, The responsibility to protect the public interest and personal privacy. I have learned from this, is not only to protect info from possible cyber-attacks but to also protect use of info and to give rights to challenge decisions. I believe as a future ICT professional that individuals should have the opportunity to question automated decisions that affect them.
+I selected this artefact because it demonstrates how ethical principles can be put into practice through government needs. Prior to studying this unit I believed successful technology was about speed and efficiency. I learnt that accountability, security and good governance are also vital concepts. This relates to the ACS principle Competence as ICT professionals need to be aware of the risks of the systems that are developed or used. As an aspiring ICT professional, will not only focus whether AI is effective, but also if it is safe, fair and appropriate to the people involved.
 
 ---
 
