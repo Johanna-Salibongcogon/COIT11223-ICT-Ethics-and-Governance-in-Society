@@ -18,11 +18,11 @@ https://www.oaic.gov.au/freedom-of-information/information-commissioner-decision
 
 ### Summary of the Artefact
 
-This artefact examines how Australian Government agencies explain their use of automated decision-making to the public. It considers information published by 23 government agencies and makes recommendations for transparency of ADM. ADM is used in government services such as social services, migration and aged care. The report highlights the need for people to understand when technology is involved in decisions affecting them (OAIC 2026).
+This artefact examines how Australian Government agencies explain their use of automated decision-making to the public. It considers information published by 23 government agencies and makes recommendations for transparency of ADM. The report highlights the need for people to understand when technology is involved in decisions affecting them (OAIC 2026).
 
 ### Justification and Reflection
 
-I selected this artefact because I wanted to learn why transparency is a key aspect of government decision-making. I learned that individuals need to be aware of the use of ADM in decision making that impacts their life. This relates to the ACS Code of Professional Conduct, specifically to the Primacy of the Public Interest, as ICT professionals should be concerned with what the impact of technology may be on the public (ACS 2014). I believe that the government agencies need to be clear about how they use ADM to achieve public trust.
+I selected this artefact because I wanted to learn why transparency is a key aspect of government decision-making. I learned that individuals need to be aware of the use of ADM in decisions that impact their life. This relates to the ACS Code of Professional Conduct, specifically the Primacy of the Public Interest, as ICT professionals should consider the impact of technology on the public (ACS 2014). I believe government agencies need to be clear about how they use ADM to achieve public trust. However, transparency alone does not guarantee that automated decisions are fair.
 
 ## Artefact 2: Privacy and Individual Rights
 
