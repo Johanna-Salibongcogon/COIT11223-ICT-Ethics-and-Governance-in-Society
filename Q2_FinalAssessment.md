@@ -24,10 +24,24 @@ This artefact examines how Australian Government agencies explain their use of a
 
 I selected this artefact because I wanted to learn why transparency is a key aspect of government decision-making. I learned that individuals need to be aware of the use of ADM in decision making that impacts their life. This relates to the ACS Code of Professional Conduct, specifically to the Primacy of the Public Interest, as ICT professionals should be concerned with what the impact of technology may be on the public. I believe that the government agencies need to be clear about how they use ADM to achieve public trust.
 
+## Artefact 2: Privacy and Individual Rights
 
+<img width="1917" height="1092" alt="image" src="https://github.com/user-attachments/assets/53385dac-faed-4fee-aed3-06d06b96488b" />
+
+https://www.oaic.gov.au/engage-with-us/submissions/agd-consultation-paper-use-of-automated-decision-making-by-government
+
+### Summary of the Artefact
+
+This addresses the national importance of privacy, transparency and safeguards in the context of governments' use of automated decision making. It considers how the use of automated decision making may affect rights and the importance of appropriate safeguards for government agencies. It also serves as a reminder of risks which may not be apparent until when a person asks for information or asks to review a decision.
+
+### Justification and Reflection
+
+I chose this artefact because privacy is a concern with ICT. Government systems can handle sensitive data and people can have restricted control of their information being processed. This applies to Article 14-Use of information, The responsibility to protect the public interest and personal privacy. I have learned from this, is that its not only to protect information from possible cyber-attacks but to also use data responsibly and give people the rights to challenge decisions. I believe as a future ICT professional, that individuals should have the opportunity to question automated decisions that would affect them.
 
 ---
 
 ## References
+
+Office of the Australian Information Commissioner (OAIC) 2025, *AGD consultation paper – Use of automated decision-making by government*, Australian Government, https://www.oaic.gov.au/engage-with-us/submissions/agd-consultation-paper-use-of-automated-decision-making-by-government
 
 Office of the Australian Information Commissioner (OAIC) 2026, *Automated decision-making and public reporting under the Freedom of Information Act*, Australian Government, https://www.oaic.gov.au/freedom-of-information/information-commissioner-decisions-and-reports/foi-reports/Automated-decision-making-and-public-reporting-under-the-Freedom-of-Information-Act
