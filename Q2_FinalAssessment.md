@@ -72,10 +72,32 @@ I choose this artefact because it shows me that it is always better to prevent a
 
 ---
 
+## Artefact 5: Transparency in United Kingdom Government Systems
+
+<img width="1917" height="1086" alt="image" src="https://github.com/user-attachments/assets/90011436-4d5c-48ad-9340-bf22f2f4c072" />
+
+https://www.gov.uk/government/publications/guidance-for-organisations-using-the-algorithmic-transparency-recording-standard/algorithmic-transparency-recording-standard-guidance-for-public-sector-bodies
+
+
+### Summary of the Artefact
+
+The Algorithmic Transparency Recording Standard is being introduced in the United Kingdom to enable public organisations to explain the use of algorithmic tools and the reasons for doing so. The guidance explains how government organisations should share information about these tools, such as their purpose and their role in decision making. It seeks to promote public understanding, trust and accountability.
+
+### Justification and Reflection
+
+I chose this artefact because it is a comparison of government approaches in Australia and another country. A surprising thing is that making something transparent isn't just a matter of saying it is there. Governments should also provide information about the system and its impact on decision making. This is in line with the ACS principle of Honesty. And in scenarios where people have to use services from Government and don't have a choice I believe transparency is so vital. But, information being published does not mean an automated decision is fair.
+
+---
+
 ## References
+Australian Computer Society (ACS) 2014, *ACS code of professional conduct*, version 2.1, Australian Computer Society, viewed 17 October 2026, https://www.acs.org.au/content/dam/acs/rules-and-regulations/Code-of-Professional-Conduct_v2.1.pdf
 
-Digital Transformation Agency (DTA) 2025a, *Policy for the responsible use of AI in government*, version 2.0, Australian Government, https://www.digital.gov.au/ai/ai-in-government-policy
+Digital Transformation Agency (DTA) 2025a, *Policy for the responsible use of AI in government*, version 2.0, Australian Government, viewed 16 October 2026, https://www.digital.gov.au/ai/ai-in-government-policy
 
-Office of the Australian Information Commissioner (OAIC) 2025, *AGD consultation paper – Use of automated decision-making by government*, Australian Government, https://www.oaic.gov.au/engage-with-us/submissions/agd-consultation-paper-use-of-automated-decision-making-by-government
+Digital Transformation Agency (DTA) 2025b, *Policy for the responsible use of AI in government – AI use case impact assessment*, Australian Government, viewed 17 October 2026, https://www.digital.gov.au/ai/ai-in-government-policy/ai-use-case-impact-assessment
 
-Office of the Australian Information Commissioner (OAIC) 2026, *Automated decision-making and public reporting under the Freedom of Information Act*, Australian Government, https://www.oaic.gov.au/freedom-of-information/information-commissioner-decisions-and-reports/foi-reports/Automated-decision-making-and-public-reporting-under-the-Freedom-of-Information-Act
+Government Digital Service (GDS) 2025, *Algorithmic transparency recording standard – guidance for public sector bodies*, UK Government, viewed 17 October 2026, https://www.gov.uk/government/publications/guidance-for-organisations-using-the-algorithmic-transparency-recording-standard/algorithmic-transparency-recording-standard-guidance-for-public-sector-bodies
+
+Office of the Australian Information Commissioner (OAIC) 2025, *AGD consultation paper – use of automated decision-making by government*, Australian Government, viewed 16 October 2026, https://www.oaic.gov.au/engage-with-us/submissions/agd-consultation-paper-use-of-automated-decision-making-by-government
+
+Office of the Australian Information Commissioner (OAIC) 2026, *Automated decision-making and public reporting under the Freedom of Information Act*, Australian Government, viewed 16 October 2026, https://www.oaic.gov.au/freedom-of-information/information-commissioner-decisions-and-reports/foi-reports/Automated-decision-making-and-public-reporting-under-the-Freedom-of-Information-Act
