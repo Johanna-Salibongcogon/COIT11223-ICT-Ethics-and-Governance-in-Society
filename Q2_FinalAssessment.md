@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Automated Decision Making (ADM) rather than humans to process of making a decision or supporting a decision its the computer systems who will make theses decisions. They are used by Governments to process data, deliver services and assist adminstrative decision making.
+Automated Decision Making (ADM) refers to computer systems that make decisions or support humans in making decisions. Governments use ADM to process data, deliver services and assist with administrative decision-making.
 
-While ADM can make government services faster and more effective, it also puts government users on their guard for issues of fairness, privacy, transparency and accountability.
+While ADM can make government services faster and more effective, it also raises concerns about fairness, privacy, transparency and accountability.
 
-This portfolio contains a review of each of the following six publications of the government that produced from Australia and the United Kingdom. It examines how ADM affects society and why ICT professionals must consider both the benefits and risks of automated systems
+This portfolio reviews six artefacts, including government publications, a news video and a news article, from Australia and the United Kingdom. It examines how ADM affects society and why ICT professionals must consider both the benefits and risks of automated systems.
 
 ---
 
@@ -18,11 +18,11 @@ https://www.oaic.gov.au/freedom-of-information/information-commissioner-decision
 
 ### Summary of the Artefact
 
-This artefact examines how Australian Government agencies explain their use of automated decision-making to the public. It considers information published by 23 government agencies and makes recommendations for transparency of ADM. The report highlights the need for people to understand when technology is involved in decisions affecting them (OAIC 2026).
+This artefact examines how Australian Government agencies explain their use of automated decision-making to the public. It reviews information from 23 government agencies and recommends ways to improve transparency. The report highlights why people should understand when ADM is used in decisions affecting them (OAIC 2026).
 
 ### Justification and Reflection
 
-I selected this artefact because I wanted to learn why transparency is a key aspect of government decision-making. I learned that individuals need to be aware of the use of ADM in decisions that impact their life. This relates to the ACS Code of Professional Conduct, specifically the Primacy of the Public Interest, as ICT professionals should consider the impact of technology on the public (ACS 2014). I believe government agencies need to be clear about how they use ADM to achieve public trust. However, transparency alone does not guarantee that automated decisions are fair.
+I selected this artefact because I wanted to understand why transparency is important in government decisions. This relates to the ACS principle of Primacy of the Public Interest, as ICT professionals should consider how technology affects people (ACS 2014). I learned that transparency alone does not mean automated decisions are fair. I would feel worried if a computer made an important decision about me without explaining why. I believe the government should acknowledge its mistakes and take steps to prevent them from happening again.
 
 ## Artefact 2: Privacy and Individual Rights
 
@@ -32,27 +32,27 @@ https://www.oaic.gov.au/engage-with-us/submissions/agd-consultation-paper-use-of
 
 ### Summary of the Artefact
 
-This addresses the national importance of privacy, transparency and safeguards in the context of governments use of automated decision making. It considers how the use of automated decision making may affect rights and the importance of appropriate safeguards for government agencies (OAIC 2025).
+This artefact explains the importance of privacy, transparency and safeguards when governments use automated decision-making. The OAIC also recommends that people should understand automated decisions and be able to request a review when needed (OAIC 2025).
 
 ### Justification and Reflection
 
-I chose this artefact because privacy is a concern with ICT. Government systems can handle sensitive data and people can have restricted control of their information being processed. People's rights and privacy are taken into account under the ACS concept of Primacy of the Public Interest (ACS 2014). I learned that it is not only to protect information from possible cyber-attacks but to also use data responsibly and give people the rights to challenge decisions. I believe as a future ICT professional, individuals should have the opportunity to question automated decisions that would affect them.
+I chose this artefact because privacy is an important concern in ICT. I would feel disappointed if the government failed to protect my personal information because I trust them to keep it safe. I learned that privacy is not only about protecting data from cyberattacks but also about using it responsibly. This relates to the ACS principle of Primacy of the Public Interest, which encourages ICT professionals to protect people's rights (ACS 2014). As a future ICT professional, I believe people should be able to question automated decisions that affect them. Since people often need to share personal information to receive government services, the government has a responsibility to use it properly.
 
 ---
 
-## Artefact 3: Responsible Use of AI in Australian Government
+## Artefact 3: Responsible AI and Human Accountability
 
-<img width="1917" height="1092" alt="image" src="https://github.com/user-attachments/assets/86ba725b-b0d8-43f1-afca-986cc03e8623" />
+<img width="1916" height="1092" alt="image" src="https://github.com/user-attachments/assets/45bce903-86d6-4f1f-98e8-4f76fb3b1cd8" />
 
-https://www.digital.gov.au/ai/ai-in-government-policy 
+https://www.abc.net.au/news/2025-12-02/government-reveals-national-ai-plan-to-serve-australians/106093480
 
 ### Summary of the Artefact
 
-The Australian Government also released a policy to help inform the responsible use of AI at government agencies. There are accountability, transparency and staff training and risk assessment requirements within the policy (DTA 2025a).
+This ABC News video discusses Australia's National AI Plan and the government's approach to AI safety. Minister Tim Ayres explains that AI offers benefits but also creates risks. He highlights the importance of human responsibility and government agencies managing AI-related risks (Ferguson 2025).
 
 ### Justification and Reflection
 
-I selected this artefact because it demonstrates how ethical principles can be put into practice. Prior to studying this unit I believed successful technology was about speed and efficiency. I learnt that accountability, security and good governance are vital concepts. This relates to the ACS principle Competence as ICT professionals need to be aware of the risks of systems developed or used (ACS 2014). As an aspiring ICT professional, I will not only focus on whether AI is effective, but also if it is safe, fair and appropriate to the people involved.
+I chose this video because it shows why people should remain responsible when using AI. Before studying this unit, I believed successful technology was mainly about speed and efficiency. Now, I understand that AI can be useful but still create risks if people rely on it without checking. This relates to the ACS principle of Competence, as ICT professionals should understand the risks of technology they use (ACS 2014). As a future ICT professional, I would consider whether AI is safe and fair, not just whether it works properly.
 
 ---
 
@@ -64,28 +64,27 @@ https://www.digital.gov.au/ai/ai-in-government-policy/ai-use-case-impact-assessm
 
 ### Summary of the Artefact
 
-This Australian Government policy provides guidance on assessing risk in the development and introduction of AI systems by agencies. It calls for impact assessments for  AI use cases and ongoing monitoring, risk management and accountability. Certain applications have greater risks, especially where decisions impact on individuals or communities (DTA 2025b).
+This Australian Government policy explains how agencies should assess risks before using AI systems. It includes impact assessments and ongoing monitoring. High-risk AI systems also require regular reviews to check whether risks are being managed (DTA 2025).
 
 ### Justification and Reflection
 
-I choose this artefact because it shows me that it is better to prevent a problem rather than to respond once the problem has occurred. This artefact links with Act Utilitarianism, because decisions should produce the best outcome with the largest balance of good over evil. It also links with the principle of Enhancement of Quality of Life by the ACS (ACS 2014). As a future ICT professional I would want to know who may be affected by a system before recommending its use. Developers should take responsibility to prevent potential issues before a system is being used.
+I chose this artefact because I learned that preventing problems is better than fixing them after they happen. This relates to Act Utilitarianism, which considers the benefits and harm of decisions (Quinn 2020). For example, an AI system may speed up government services for many people, but it could still cause harm if some people receive unfair decisions. It also connects to the ACS principle of Enhancement of Quality of Life (ACS 2014). I realised that even a small problem in an automated system could affect many people because it makes decisions quickly. As a future ICT professional, I would want to understand who might be affected before recommending a system.
 
 ---
 
-## Artefact 5: Transparency in United Kingdom Government Systems
+## Artefact 5: Unfair Automated Decisions in UK Welfare Services
 
-<img width="1917" height="1086" alt="image" src="https://github.com/user-attachments/assets/90011436-4d5c-48ad-9340-bf22f2f4c072" />
+<img width="1917" height="1088" alt="image" src="https://github.com/user-attachments/assets/b723bb3c-d9f4-4251-92ff-ef00ade25a7f" />
 
-https://www.gov.uk/government/publications/guidance-for-organisations-using-the-algorithmic-transparency-recording-standard/algorithmic-transparency-recording-standard-guidance-for-public-sector-bodies
-
+https://www.theguardian.com/society/2025/jan/26/dwp-program-that-automatically-approves-landlord-benefit-deduction-requests-ruled-unlawful
 
 ### Summary of the Artefact
 
-The Algorithmic Transparency Recording Standard is being introduced in the United Kingdom to enable public organisations to explain the use of algorithmic tools. The guidance explains how government organisations should share information about these tools (GDS 2025).
+This news article discusses a UK government system that automatically approved requests from landlords to deduct money from people's welfare payments. The system was ruled unlawful because people were not properly given the opportunity to challenge the deductions. This shows how automated decisions can affect people's lives when there are not enough safeguards (Butler 2025).
 
 ### Justification and Reflection
 
-I chose this artefact because it compares government approaches. Making something transparent isn't just a matter of saying it is there. Governments should also provide information about the system and its impact on decision making. This is in line with the ACS principle of Honesty (ACS 2014). When people have no choice but to use government services I believe transparency is so vital. But, information being published does not mean an automated decision is fair.
+I chose this artefact because it shows why transparency and fairness are important in government decisions. I learned that making decisions faster does not always mean they are fair, especially when people are not given a chance to explain their circumstances before a decision is made. This relates to the ACS principle of Honesty because ICT professionals should provide clear and truthful information (ACS 2014). People should also be informed before decisions are made about their welfare payments and have a fair chance to question them.
 
 ---
 
@@ -97,52 +96,54 @@ https://www.gov.uk/government/publications/algorithmic-transparency-recording-st
 
 ### Summary of the Artefact
 
-This artefact is a UK policy about the transparency requirements for government bodies and algorithmic tools. It is about tools that have a high impact on the decisions that affect the public. The policy acknowledges that certain information could have to be protected for security or confidentiality purposes (GDS 2024).
+This UK policy explains which central government organisations must publish information about algorithmic tools that affect public decisions. It also allows sensitive information to remain protected for security or confidentiality reasons (GDS 2024).
 
 ### Justification and Reflection
 
-I chose this artefact because of its emphasis on transparency must balance with other responsibilities. At first, I believed that more information would lead to increased accountability. But I found out that there is some data that is sensitive. This relates to the Kantianism approach as professionals are responsible for respecting people's rights and keeping confidential information private. Governments should communicate about automated decision making, but not reveal sensitive information. Accountability is responsibility for the technology and its impact even when a computer does much of the work.
+I chose this artefact because it shows that governments should be open about their systems while protecting private information. At first, I believed that sharing more information would always improve accountability. However, I learned that some information is sensitive and should not be shared. This relates to Kantianism because people's rights should be respected, even when sharing information could benefit others (Quinn 2020). For example, governments should not reveal someone's private information just to make their automated systems more transparent. I realised that transparency does not mean sharing everything. As a future ICT professional, I believe governments should explain their systems clearly and take responsibility for the decisions they make.
 
 ---
 ## Overall Reflection and Conclusion
 
-Using these six artefacts I have gained a wide perspective of Automated Decision Making within systems within government.
+Through these six artefacts, I have gained a wider understanding of automated decision-making in government.
 
-The Australian sources emphasise responsible AI use, privacy, risk assessment and accountability. The United Kingdom sources demonstrate how government organisations can provide public information about their algorithmic tools.
+The Australian sources emphasise responsible AI use, privacy, risk assessment and accountability. The United Kingdom sources show why transparency, fairness and accountability are important when governments use automated decision-making systems.
 
 Both approaches show that technology can improve government services, but efficiency should not be the only measure of success.
 
-Before taking this unit my view about automation is to help make decisions faster and to lighten human work. However, I now understand that fairness, accountability and human responsibility are just as important. Automations makes decisions make quicker decisions but it is not replacing responsibility in making decisions. 
+Before studying this unit, I believed automation was mainly used to make decisions faster and reduce human workload. However, I now understand that fairness, accountability and human responsibility are just as important. Automation can make decisions quicker, but it does not replace human responsibility.
 
-One example discussed during our class was Australia's Robodebt scheme. It was by using automated processes and income averaging to determine possible welfare debts, but many individuals were wrongly told that they owed money. This leds to a certain financial burden, stress and emotional distress to people that are being wrongly charged especially among those people that are  reliant on government support. It was eventually discovered to be unlawful (Royal Commission into the Robodebt Scheme 2023).
+One example discussed during our class was Australia's Robodebt scheme. The government used automated processes and income averaging to calculate possible welfare debts, but many people were wrongly told they owed money. This caused financial problems and stress, especially for people who depended on government support. It was eventually discovered to be unlawful (Royal Commission into the Robodebt Scheme 2023).
 
-This discussions also helped me understand that importance of automated systems and their serious consequences when they are not properly checked. Even when technology performs tasks automatically, humans must remain responsible for its decisions and their effects.
+The UK welfare deduction case also shows how automated government decisions can affect vulnerable people (Butler 2025). Both the Australian and UK cases helped me understand that automated systems need proper checks and opportunities for people to challenge decisions. Even when technology performs tasks automatically, humans must remain responsible for the decisions made and their effects on people.
 
-As an upcoming future ICT professional I would like to reflect on the impacts of technology for various members of society with special reference to those who rely on Government organizations for access to such vital services and their essential needs.
+As a future ICT professional, I want to consider how technology affects different people, especially those who depend on government services for their daily needs.
 
-I also learned that even a well-designed system can be an ethical issue, especially if individuals become too reliant on it. This is aligned with the ACS principle of the Primacy of the Public Interest, which urges ICT professionals to take into account the interests of the public (ACS 2014).
+I also learned that even a well-designed system can cause ethical problems if people rely on it too much without checking its decisions. This relates to the ACS principle of Primacy of the Public Interest, which urges ICT professionals to take into account the interests of the public (ACS 2014).
 
-I think ADM systems should be created and implemented fairly, transparently, under human oversight and provide opportunities for people to appeal to decisions made that are not accurate.
+I believe ADM systems should be fair, transparent and checked by humans. People should also have the right to question decisions they believe are wrong.
 
 ---
 
 ##  AI Use Acknowledgement
 
-I used ChatGPT during the planning stage of this assessment to help me organise my ideas and check the grammar of my work. I reviewed the suggestions and developed my work based on my own understanding and learning from the unit.
+I used ChatGPT to help me plan and organise my assessment, improve grammar and sentence structure, and suggest ways to make my explanations and reflections clearer. I reviewed the suggestions and made changes based on my own understanding of the artefacts and what I learned from this unit.
 
 ## References
 Australian Computer Society (ACS) 2014, *ACS code of professional conduct*, version 2.1, Australian Computer Society, viewed 17 October 2026, https://www.acs.org.au/content/dam/acs/rules-and-regulations/Code-of-Professional-Conduct_v2.1.pdf
 
-Digital Transformation Agency (DTA) 2025a, *Policy for the responsible use of AI in government*, version 2.0, Australian Government, viewed 16 October 2026, https://www.digital.gov.au/ai/ai-in-government-policy
+Butler, P 2025, 'DWP program that automatically approves landlord benefit deduction requests ruled unlawful', *The Guardian*, 26 January, viewed 17 October 2026, https://www.theguardian.com/society/2025/jan/26/dwp-program-that-automatically-approves-landlord-benefit-deduction-requests-ruled-unlawful
 
-Digital Transformation Agency (DTA) 2025b, *Policy for the responsible use of AI in government – AI use case impact assessment*, Australian Government, viewed 17 October 2026, https://www.digital.gov.au/ai/ai-in-government-policy/ai-use-case-impact-assessment
+Digital Transformation Agency (DTA) 2025, *Policy for the responsible use of AI in government – AI use case impact assessment*, Australian Government, viewed 17 October 2026, https://www.digital.gov.au/ai/ai-in-government-policy/ai-use-case-impact-assessment
+
+Ferguson, S 2025, 'Government reveals national AI plan to "serve" Australians', *7.30*, ABC News, 2 December, viewed 17 October 2026, https://www.abc.net.au/news/2025-12-02/government-reveals-national-ai-plan-to-serve-australians/106093480
 
 Government Digital Service (GDS) 2024, *Algorithmic Transparency Recording Standard (ATRS) Mandatory Scope and Exemptions Policy*, UK Government, viewed 17 October 2026, https://www.gov.uk/government/publications/algorithmic-transparency-recording-standard-mandatory-scope-and-exemptions-policy/algorithmic-transparency-recording-standard-atrs-mandatory-scope-and-exemptions-policy
-
-Government Digital Service (GDS) 2025, *Algorithmic transparency recording standard – guidance for public sector bodies*, UK Government, viewed 17 October 2026, https://www.gov.uk/government/publications/guidance-for-organisations-using-the-algorithmic-transparency-recording-standard/algorithmic-transparency-recording-standard-guidance-for-public-sector-bodies
 
 Office of the Australian Information Commissioner (OAIC) 2025, *AGD consultation paper – use of automated decision-making by government*, Australian Government, viewed 16 October 2026, https://www.oaic.gov.au/engage-with-us/submissions/agd-consultation-paper-use-of-automated-decision-making-by-government
 
 Office of the Australian Information Commissioner (OAIC) 2026, *Automated decision-making and public reporting under the Freedom of Information Act*, Australian Government, viewed 16 October 2026, https://www.oaic.gov.au/freedom-of-information/information-commissioner-decisions-and-reports/foi-reports/Automated-decision-making-and-public-reporting-under-the-Freedom-of-Information-Act
+
+Quinn, MJ 2020, *Ethics for the Information Age*, 8th edn, Pearson, United States.
 
 Royal Commission into the Robodebt Scheme 2023, *Report of the Royal Commission into the Robodebt Scheme*, Australian Government, viewed 17 October 2026, https://robodebt.royalcommission.gov.au/publications/report
